@@ -1,5 +1,5 @@
 
-# IJ Start Canon
+# IJ Start Canon | https Ij.Start.Canon
 
 If you are looking for the setup of your canon printer, then you are at the right place. **[Ij.start.canon](https://startijcanon.github.io)** is providing the setup guide for the canon printers. The canon printers need drivers to work and make a printout. But before it, you also need to download the canon printer drivers. The drivers are available on the official website of the canon. After downloading, installation of the canon drivers is a must. Then the connection step appears. So here are all the steps explained in detail below. Stay with the article to set up your canon printer.
 
